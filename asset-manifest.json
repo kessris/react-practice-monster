@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-practice-monster/static/css/main.e0e5d313.chunk.css",
+    "main.js": "/react-practice-monster/static/js/main.c3d98b23.chunk.js",
+    "main.js.map": "/react-practice-monster/static/js/main.c3d98b23.chunk.js.map",
+    "runtime-main.js": "/react-practice-monster/static/js/runtime-main.4407683b.js",
+    "runtime-main.js.map": "/react-practice-monster/static/js/runtime-main.4407683b.js.map",
+    "static/js/2.35df3c83.chunk.js": "/react-practice-monster/static/js/2.35df3c83.chunk.js",
+    "static/js/2.35df3c83.chunk.js.map": "/react-practice-monster/static/js/2.35df3c83.chunk.js.map",
+    "index.html": "/react-practice-monster/index.html",
+    "precache-manifest.8e0ca4468c5a96d0f8a55e41b17fbfc7.js": "/react-practice-monster/precache-manifest.8e0ca4468c5a96d0f8a55e41b17fbfc7.js",
+    "service-worker.js": "/react-practice-monster/service-worker.js",
+    "static/css/main.e0e5d313.chunk.css.map": "/react-practice-monster/static/css/main.e0e5d313.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4407683b.js",
+    "static/js/2.35df3c83.chunk.js",
+    "static/css/main.e0e5d313.chunk.css",
+    "static/js/main.c3d98b23.chunk.js"
+  ]
+}
